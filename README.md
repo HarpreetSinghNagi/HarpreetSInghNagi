@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/KFV2cryJjjowe1XGAK/giphy.gif" alt="error" width="200" />
+[<img src="https://media.giphy.com/media/KFV2cryJjjowe1XGAK/giphy.gif" alt="error" width="200" />](https://harpreet-nagi.netlify.app/)
 
 <!--
 **HarpreetSinghNagi/HarpreetSInghNagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[website]
+
 ### Hi there, I'm Harpreet - aka [HarpreetSinghNagi] 👋
 
 
