@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 [website]
 ### Hi there, I'm Harpreet - aka [HarpreetSinghNagi] 👋
 
-[![Website](<div style="height: 0; padding-bottom: calc(56.25% + 35px); position:relative; width: 100%;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://www.kapwing.com/e/5f38bfb8f58f330015d56e8b" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" title="Embedded content made with Kapwing" width="100%"></iframe></div>)](https://harpreet-nagi.netlify.app/)
-[![Twitter Follow](https://img.shields.io/instragram/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm newbie in the world of tech!
 
