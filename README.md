@@ -1,5 +1,5 @@
 
-[<img src="https://media.giphy.com/media/xUA7b5txviorYykS1G/giphy.gif" alt="codeSTACKr Spotify Playing" width="350" />]
+<img src="https://kapwi.ng/c/9bcTseLI" alt="codeSTACKr Spotify Playing" width="350" />
 
 <!--
 **HarpreetSinghNagi/HarpreetSInghNagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
