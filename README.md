@@ -1,5 +1,5 @@
 <iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://www.kapwing.com/e/5f38bfb8f58f330015d56e8b" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" title="Embedded content made with Kapwing" width="100%"></iframe>
-<img src="https://kapwi.ng/c/9bcTseLI" alt="error" width="350" />
+<img src="https://www.kapwing.com/e/5f38bfb8f58f330015d56e8b" alt="error" width="350" />
 
 <!--
 **HarpreetSinghNagi/HarpreetSInghNagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
