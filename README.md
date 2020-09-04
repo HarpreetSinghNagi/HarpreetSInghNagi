@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 
 
-[website]: https://harpreet-nagi.netlify.app/
+[website]: https://harpreetnagi.tk/
 [instagram]: https://www.instagram.com/harpreet__nagi/
 [linkedin]: https://www.linkedin.com/in/harpreet-singh-33a3811b0/
 
