@@ -1,5 +1,5 @@
 
-[<img src="https://media.giphy.com/media/KFV2cryJjjowe1XGAK/giphy.gif" alt="error" width="200" />](https://harpreetnagi.tk/)
+[<img src="https://media.giphy.com/media/KFV2cryJjjowe1XGAK/giphy.gif" alt="error" width="200" />](https://www.nagiharpreet.ga/)
 
 <!--
 **HarpreetSinghNagi/HarpreetSInghNagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 
 
-[website]: https://harpreetnagi.tk/
+[website]: https://www.nagiharpreet.ga/
 [instagram]: https://www.instagram.com/harpreet__nagi/
 [linkedin]: https://www.linkedin.com/in/harpreet-singh-33a3811b0/
 
